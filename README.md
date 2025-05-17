@@ -42,8 +42,3 @@ The program supports the following operations:
 6. Follow the menu prompts in the terminal window.
 
 ---
-
-## Project Structure
-
-# SDLC-Assignment-Part-2
-# SDLC-Assignment-Part-2
